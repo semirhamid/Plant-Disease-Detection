@@ -22,7 +22,7 @@ This project leverages the power of Convolutional Neural Networks (CNN) and the 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/plant-disease-detection-cnn-resnet.git
+   git clone https://github.com/semirhamid/Plant-Disease-Detection.git
    ```
 2. Install Python dependencies:
    ```bash
